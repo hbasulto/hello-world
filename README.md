@@ -1,2 +1,6 @@
 # hello-world
-Practice repository
+
+
+Hello all,
+
+Just working the tutorial and practicing.
